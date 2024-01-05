@@ -1,0 +1,14 @@
+C:\Users\kapaz\OneDrive\Área de Trabalho\Proj Celular em C#\Proj-Celular-SNI\bin\Debug\net8.0\Proj-Celular-SNI.exe
+C:\Users\kapaz\OneDrive\Área de Trabalho\Proj Celular em C#\Proj-Celular-SNI\bin\Debug\net8.0\Proj-Celular-SNI.deps.json
+C:\Users\kapaz\OneDrive\Área de Trabalho\Proj Celular em C#\Proj-Celular-SNI\bin\Debug\net8.0\Proj-Celular-SNI.runtimeconfig.json
+C:\Users\kapaz\OneDrive\Área de Trabalho\Proj Celular em C#\Proj-Celular-SNI\bin\Debug\net8.0\Proj-Celular-SNI.dll
+C:\Users\kapaz\OneDrive\Área de Trabalho\Proj Celular em C#\Proj-Celular-SNI\bin\Debug\net8.0\Proj-Celular-SNI.pdb
+C:\Users\kapaz\OneDrive\Área de Trabalho\Proj Celular em C#\Proj-Celular-SNI\obj\Debug\net8.0\Proj-Celular-SNI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kapaz\OneDrive\Área de Trabalho\Proj Celular em C#\Proj-Celular-SNI\obj\Debug\net8.0\Proj-Celular-SNI.AssemblyInfoInputs.cache
+C:\Users\kapaz\OneDrive\Área de Trabalho\Proj Celular em C#\Proj-Celular-SNI\obj\Debug\net8.0\Proj-Celular-SNI.AssemblyInfo.cs
+C:\Users\kapaz\OneDrive\Área de Trabalho\Proj Celular em C#\Proj-Celular-SNI\obj\Debug\net8.0\Proj-Celular-SNI.csproj.CoreCompileInputs.cache
+C:\Users\kapaz\OneDrive\Área de Trabalho\Proj Celular em C#\Proj-Celular-SNI\obj\Debug\net8.0\Proj-Celular-SNI.dll
+C:\Users\kapaz\OneDrive\Área de Trabalho\Proj Celular em C#\Proj-Celular-SNI\obj\Debug\net8.0\refint\Proj-Celular-SNI.dll
+C:\Users\kapaz\OneDrive\Área de Trabalho\Proj Celular em C#\Proj-Celular-SNI\obj\Debug\net8.0\Proj-Celular-SNI.pdb
+C:\Users\kapaz\OneDrive\Área de Trabalho\Proj Celular em C#\Proj-Celular-SNI\obj\Debug\net8.0\Proj-Celular-SNI.genruntimeconfig.cache
+C:\Users\kapaz\OneDrive\Área de Trabalho\Proj Celular em C#\Proj-Celular-SNI\obj\Debug\net8.0\ref\Proj-Celular-SNI.dll
